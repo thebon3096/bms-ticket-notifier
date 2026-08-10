@@ -6,7 +6,7 @@
       "date": "20260813",
       "cat": "PICTURE  PERFECT",
       "price": "620.00",
-      "status": "1"
+      "status": "0"
     },
     "PVFF|52646|20260813|EXTRA LEGROOM ROWS": {
       "venue": "PVR: Nexus (Formerly Forum), Koramangala",
@@ -54,7 +54,7 @@
       "date": "20260813",
       "cat": "PICTURE  PERFECT",
       "price": "880.00",
-      "status": "0"
+      "status": "1"
     },
     "PVFF|52649|20260813|PRIME ROWS": {
       "venue": "PVR: Nexus (Formerly Forum), Koramangala",
@@ -197,7 +197,7 @@
       "time": "08:00 AM",
       "date": "20260813",
       "cat": "PICTURE  PERFECT",
-      "price": "600.00",
+      "price": "670.00",
       "status": "2"
     },
     "PVER|56075|20260813|EXTRA LEGROOM ROWS": {
@@ -272,19 +272,19 @@
       "price": "400.00",
       "status": "3"
     },
-    "PVER|56078|20260813|EXTRA LEGROOM ROWS": {
-      "venue": "PVR: Vega City, Bannerghatta Road",
-      "time": "06:30 PM",
-      "date": "20260813",
-      "cat": "EXTRA LEGROOM ROWS",
-      "price": "1400.00",
-      "status": "3"
-    },
     "PVER|56078|20260813|PICTURE  PERFECT": {
       "venue": "PVR: Vega City, Bannerghatta Road",
       "time": "06:30 PM",
       "date": "20260813",
       "cat": "PICTURE  PERFECT",
+      "price": "1500.00",
+      "status": "3"
+    },
+    "PVER|56078|20260813|EXTRA LEGROOM ROWS": {
+      "venue": "PVR: Vega City, Bannerghatta Road",
+      "time": "06:30 PM",
+      "date": "20260813",
+      "cat": "EXTRA LEGROOM ROWS",
       "price": "1400.00",
       "status": "3"
     },
