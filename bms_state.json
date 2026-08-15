@@ -1,18 +1,18 @@
 {
   "shows": {
-    "PVFF|53155|20260815|PICTURE  PERFECT": {
-      "venue": "PVR: Nexus (Formerly Forum), Koramangala",
-      "time": "10:30 PM",
-      "date": "20260815",
-      "cat": "PICTURE  PERFECT",
-      "price": "2000.00",
-      "status": "0"
-    },
     "PVFF|53155|20260815|EXTRA LEGROOM ROWS": {
       "venue": "PVR: Nexus (Formerly Forum), Koramangala",
       "time": "10:30 PM",
       "date": "20260815",
       "cat": "EXTRA LEGROOM ROWS",
+      "price": "2000.00",
+      "status": "0"
+    },
+    "PVFF|53155|20260815|PICTURE  PERFECT": {
+      "venue": "PVR: Nexus (Formerly Forum), Koramangala",
+      "time": "10:30 PM",
+      "date": "20260815",
+      "cat": "PICTURE  PERFECT",
       "price": "2000.00",
       "status": "0"
     },
@@ -78,7 +78,7 @@
       "date": "20260815",
       "cat": "PRIME ROWS",
       "price": "1600.00",
-      "status": "0"
+      "status": "1"
     },
     "PVWW|40202|20260815|CLASSIC PLUS ROWS": {
       "venue": "PVR: VR Bengaluru, Whitefield Road",
