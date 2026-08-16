@@ -40,30 +40,6 @@
       "price": "1600.00",
       "status": "3"
     },
-    "CFBS|11926|20260816|NORMAL": {
-      "venue": "Cinepolis: Nexus Shantiniketan, Bengaluru",
-      "time": "10:30 PM",
-      "date": "20260816",
-      "cat": "NORMAL",
-      "price": "1200.00",
-      "status": "3"
-    },
-    "CFBS|11926|20260816|EXECUTIVE": {
-      "venue": "Cinepolis: Nexus Shantiniketan, Bengaluru",
-      "time": "10:30 PM",
-      "date": "20260816",
-      "cat": "EXECUTIVE",
-      "price": "1400.00",
-      "status": "2"
-    },
-    "CFBS|11926|20260816|PREMIUM": {
-      "venue": "Cinepolis: Nexus Shantiniketan, Bengaluru",
-      "time": "10:30 PM",
-      "date": "20260816",
-      "cat": "PREMIUM",
-      "price": "1700.00",
-      "status": "1"
-    },
     "PVWW|40208|20260816|PICTURE  PERFECT": {
       "venue": "PVR: VR Bengaluru, Whitefield Road",
       "time": "10:30 PM",
