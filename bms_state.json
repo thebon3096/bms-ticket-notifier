@@ -1,45 +1,5 @@
 {
   "shows": {
-    "PVFF|53159|20260816|EXTRA LEGROOM ROWS": {
-      "venue": "PVR: Nexus (Formerly Forum), Koramangala",
-      "time": "04:45 PM",
-      "date": "20260816",
-      "cat": "EXTRA LEGROOM ROWS",
-      "price": "2000.00",
-      "status": "0"
-    },
-    "PVFF|53159|20260816|PICTURE  PERFECT": {
-      "venue": "PVR: Nexus (Formerly Forum), Koramangala",
-      "time": "04:45 PM",
-      "date": "20260816",
-      "cat": "PICTURE  PERFECT",
-      "price": "2000.00",
-      "status": "1"
-    },
-    "PVFF|53159|20260816|PRIME ROWS": {
-      "venue": "PVR: Nexus (Formerly Forum), Koramangala",
-      "time": "04:45 PM",
-      "date": "20260816",
-      "cat": "PRIME ROWS",
-      "price": "1800.00",
-      "status": "0"
-    },
-    "PVFF|53159|20260816|CLASSIC PLUS ROWS": {
-      "venue": "PVR: Nexus (Formerly Forum), Koramangala",
-      "time": "04:45 PM",
-      "date": "20260816",
-      "cat": "CLASSIC PLUS ROWS",
-      "price": "1700.00",
-      "status": "0"
-    },
-    "PVFF|53159|20260816|CLASSIC ROWS": {
-      "venue": "PVR: Nexus (Formerly Forum), Koramangala",
-      "time": "04:45 PM",
-      "date": "20260816",
-      "cat": "CLASSIC ROWS",
-      "price": "1600.00",
-      "status": "3"
-    },
     "PVFF|53161|20260816|EXTRA LEGROOM ROWS": {
       "venue": "PVR: Nexus (Formerly Forum), Koramangala",
       "time": "10:30 PM",
@@ -54,7 +14,7 @@
       "date": "20260816",
       "cat": "PICTURE  PERFECT",
       "price": "2000.00",
-      "status": "0"
+      "status": "1"
     },
     "PVFF|53161|20260816|PRIME ROWS": {
       "venue": "PVR: Nexus (Formerly Forum), Koramangala",
@@ -143,38 +103,6 @@
       "cat": "CLASSIC ROWS",
       "price": "1100.00",
       "status": "3"
-    },
-    "PVWW|40206|20260816|PICTURE  PERFECT": {
-      "venue": "PVR: VR Bengaluru, Whitefield Road",
-      "time": "04:45 PM",
-      "date": "20260816",
-      "cat": "PICTURE  PERFECT",
-      "price": "1900.00",
-      "status": "0"
-    },
-    "PVWW|40206|20260816|PRIME ROWS": {
-      "venue": "PVR: VR Bengaluru, Whitefield Road",
-      "time": "04:45 PM",
-      "date": "20260816",
-      "cat": "PRIME ROWS",
-      "price": "1600.00",
-      "status": "1"
-    },
-    "PVWW|40206|20260816|CLASSIC PLUS ROWS": {
-      "venue": "PVR: VR Bengaluru, Whitefield Road",
-      "time": "04:45 PM",
-      "date": "20260816",
-      "cat": "CLASSIC PLUS ROWS",
-      "price": "1400.00",
-      "status": "0"
-    },
-    "PVWW|40206|20260816|CLASSIC ROWS": {
-      "venue": "PVR: VR Bengaluru, Whitefield Road",
-      "time": "04:45 PM",
-      "date": "20260816",
-      "cat": "CLASSIC ROWS",
-      "price": "1300.00",
-      "status": "2"
     },
     "PVWW|40208|20260816|PICTURE  PERFECT": {
       "venue": "PVR: VR Bengaluru, Whitefield Road",
